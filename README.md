@@ -1,2 +1,2 @@
-# daredays.com
+# DareDays.com
 MyDareDays website.
